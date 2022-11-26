@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-c{
+  position: absolute;
+    margin-top: 24%;
+    /* border: 1px solid; */
+    height: 200px;
+    width: 300px;
+    /* display: flex;
+    justify-content: center;  */
+}
+.d-flex{
+  display: flex;
+  justify-content: center;
+}
+.mtop{
+  margin-top: 10px;
+}
